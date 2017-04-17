@@ -1,46 +1,46 @@
 <svg height="686" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="686" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 18:07:05 +0000  8835540 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 18:07:05 +0000     1965 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 18:07:05 +0000     1083 bytes  LICENSE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 18:07:05 +0000     6724 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 18:07:05 +0000      512 bytes  addon/handler.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 18:07:05 +0000      922 bytes  addon/handlers/insights.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 18:07:05 +0000     2087 bytes  addon/handlers/timing.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 18:07:05 +0000      408 bytes  addon/index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 18:07:05 +0000     2916 bytes  addon/matcher.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 18:07:05 +0000     3231 bytes  addon/middleware.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 18:07:05 +0000     2642 bytes  addon/optparse.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 18:07:05 +0000     2070 bytes  addon/runtime.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 18:07:05 +0000      140 bytes  addon/trackers.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 18:07:05 +0000      739 bytes  addon/trackers/abstract-tracker.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 18:07:05 +0000      760 bytes  addon/trackers/console.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 18:07:05 +0000     2460 bytes  addon/trackers/google.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 18:07:05 +0000      104 bytes  blueprints/ember-insights-initializer/files/app/\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 18:08:22 +0000  8835540 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 18:08:22 +0000     1965 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 18:08:22 +0000     1083 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 18:08:22 +0000     6724 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 18:08:22 +0000      512 bytes  addon/handler.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 18:08:22 +0000      922 bytes  addon/handlers/insights.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 18:08:22 +0000     2087 bytes  addon/handlers/timing.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 18:08:22 +0000      408 bytes  addon/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 18:08:22 +0000     2916 bytes  addon/matcher.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 18:08:22 +0000     3231 bytes  addon/middleware.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 18:08:22 +0000     2642 bytes  addon/optparse.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 18:08:22 +0000     2070 bytes  addon/runtime.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 18:08:22 +0000      140 bytes  addon/trackers.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 18:08:22 +0000      739 bytes  addon/trackers/abstract-tracker.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 18:08:22 +0000      760 bytes  addon/trackers/console.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 18:08:22 +0000     2460 bytes  addon/trackers/google.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 18:08:22 +0000      104 bytes  blueprints/ember-insights-initializer/files/app/\</tspan>
 <tspan x="10" y="298">config/ember-insights.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-17 18:07:05 +0000     3009 bytes  blueprints/ember-insights-initializer/files/app/\</tspan>
+<tspan x="10" y="314"> 17.  2017-04-17 18:08:22 +0000     3009 bytes  blueprints/ember-insights-initializer/files/app/\</tspan>
 <tspan x="10" y="330">config/ember-insights/development.js</tspan>
-<tspan x="10" y="346"> 18.  2017-04-17 18:07:05 +0000     1149 bytes  blueprints/ember-insights-initializer/files/app/\</tspan>
+<tspan x="10" y="346"> 18.  2017-04-17 18:08:22 +0000     1149 bytes  blueprints/ember-insights-initializer/files/app/\</tspan>
 <tspan x="10" y="362">initializers/__name__.js</tspan>
-<tspan x="10" y="378"> 19.  2017-04-17 18:07:05 +0000       90 bytes  config/environment.js</tspan>
-<tspan x="10" y="394"> 20.  2017-04-17 18:07:05 +0000       68 bytes  dist/assets/dummy.css</tspan>
-<tspan x="10" y="410"> 21.  2017-04-17 18:07:05 +0000    66802 bytes  dist/assets/dummy.js</tspan>
-<tspan x="10" y="426"> 22.  2017-04-17 18:07:05 +0000    81857 bytes  dist/assets/dummy.map</tspan>
-<tspan x="10" y="442"> 23.  2017-04-17 18:07:05 +0000  1646853 bytes  dist/assets/ember-data.js.map</tspan>
-<tspan x="10" y="458"> 24.  2017-04-17 18:07:05 +0000      998 bytes  dist/assets/test-loader.js</tspan>
-<tspan x="10" y="474"> 25.  2017-04-17 18:07:05 +0000     4242 bytes  dist/assets/test-support.css</tspan>
-<tspan x="10" y="490"> 26.  2017-04-17 18:07:05 +0000   340487 bytes  dist/assets/test-support.js</tspan>
-<tspan x="10" y="506"> 27.  2017-04-17 18:07:05 +0000   425619 bytes  dist/assets/test-support.map</tspan>
-<tspan x="10" y="522"> 28.  2017-04-17 18:07:05 +0000        0 bytes  dist/assets/vendor.css</tspan>
-<tspan x="10" y="538"> 29.  2017-04-17 18:07:05 +0000  2314617 bytes  dist/assets/vendor.js</tspan>
-<tspan x="10" y="554"> 30.  2017-04-17 18:07:05 +0000  3912731 bytes  dist/assets/vendor.map</tspan>
-<tspan x="10" y="570"> 31.  2017-04-17 18:07:05 +0000      603 bytes  dist/crossdomain.xml</tspan>
-<tspan x="10" y="586"> 32.  2017-04-17 18:07:05 +0000     1879 bytes  dist/index.html</tspan>
-<tspan x="10" y="602"> 33.  2017-04-17 18:07:05 +0000       41 bytes  dist/robots.txt</tspan>
-<tspan x="10" y="618"> 34.  2017-04-17 18:07:05 +0000      681 bytes  dist/testem.js</tspan>
-<tspan x="10" y="634"> 35.  2017-04-17 18:07:05 +0000     1899 bytes  dist/tests/index.html</tspan>
-<tspan x="10" y="650"> 36.  2017-04-17 18:07:05 +0000       86 bytes  index.js</tspan>
-<tspan x="10" y="666"> 37.  2017-04-17 18:07:05 +0000     3066 bytes  package.json</tspan>
+<tspan x="10" y="378"> 19.  2017-04-17 18:08:22 +0000       90 bytes  config/environment.js</tspan>
+<tspan x="10" y="394"> 20.  2017-04-17 18:08:22 +0000       68 bytes  dist/assets/dummy.css</tspan>
+<tspan x="10" y="410"> 21.  2017-04-17 18:08:22 +0000    66802 bytes  dist/assets/dummy.js</tspan>
+<tspan x="10" y="426"> 22.  2017-04-17 18:08:22 +0000    81857 bytes  dist/assets/dummy.map</tspan>
+<tspan x="10" y="442"> 23.  2017-04-17 18:08:22 +0000  1646853 bytes  dist/assets/ember-data.js.map</tspan>
+<tspan x="10" y="458"> 24.  2017-04-17 18:08:22 +0000      998 bytes  dist/assets/test-loader.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-17 18:08:22 +0000     4242 bytes  dist/assets/test-support.css</tspan>
+<tspan x="10" y="490"> 26.  2017-04-17 18:08:22 +0000   340487 bytes  dist/assets/test-support.js</tspan>
+<tspan x="10" y="506"> 27.  2017-04-17 18:08:22 +0000   425619 bytes  dist/assets/test-support.map</tspan>
+<tspan x="10" y="522"> 28.  2017-04-17 18:08:22 +0000        0 bytes  dist/assets/vendor.css</tspan>
+<tspan x="10" y="538"> 29.  2017-04-17 18:08:22 +0000  2314617 bytes  dist/assets/vendor.js</tspan>
+<tspan x="10" y="554"> 30.  2017-04-17 18:08:22 +0000  3912731 bytes  dist/assets/vendor.map</tspan>
+<tspan x="10" y="570"> 31.  2017-04-17 18:08:22 +0000      603 bytes  dist/crossdomain.xml</tspan>
+<tspan x="10" y="586"> 32.  2017-04-17 18:08:22 +0000     1879 bytes  dist/index.html</tspan>
+<tspan x="10" y="602"> 33.  2017-04-17 18:08:22 +0000       41 bytes  dist/robots.txt</tspan>
+<tspan x="10" y="618"> 34.  2017-04-17 18:08:22 +0000      681 bytes  dist/testem.js</tspan>
+<tspan x="10" y="634"> 35.  2017-04-17 18:08:22 +0000     1899 bytes  dist/tests/index.html</tspan>
+<tspan x="10" y="650"> 36.  2017-04-17 18:08:22 +0000       86 bytes  index.js</tspan>
+<tspan x="10" y="666"> 37.  2017-04-17 18:08:22 +0000     3066 bytes  package.json</tspan>
 </text>
 </svg>
