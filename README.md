@@ -1,4 +1,7 @@
-# test coverage for  [ember-insights (v0.6.2)](http://ember-insights.github.io)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-insights.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-insights) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-insights.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-insights)
+# npmtest-ember-insights
+
+#### basic test coverage for  [ember-insights (v0.6.2)](http://ember-insights.github.io)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-insights.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-insights) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-insights.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-insights)
+
 #### The Ember.js addon for tracking web analytics and user experience
 
 [![NPM](https://nodei.co/npm/ember-insights.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-insights)
